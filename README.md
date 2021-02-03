@@ -1,7 +1,7 @@
 # mocha-test
 Boilerplate for Mocha tests
 
-This repository is in support of my YouTube tutorial on writing tests in Mocha and Chai. Watch the full video [here](https://youtu.be/Rumf96j0cR0).
+This repository is in support of my YouTube tutorial on writing tests in Mocha and Chai for your JavaScript projects. Watch the full video [here](https://youtu.be/Rumf96j0cR0).
 
 In this video I show you how to write your first unit test using Mocha and Chai. Mocha is a popular testing framework that we will be using for this video, along with Chai which is an assertion library.
 
